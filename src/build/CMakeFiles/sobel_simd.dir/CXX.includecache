@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/afs/ece.cmu.edu/usr/bevani/Private/18-645/sobel_filter/sobel_gaussian/src/main.cpp
+iostream
+-
+cstdlib
+-
+sobellib.h
+/afs/ece.cmu.edu/usr/bevani/Private/18-645/sobel_filter/sobel_gaussian/src/sobellib.h
+
+/afs/ece.cmu.edu/usr/bevani/Private/18-645/sobel_filter/sobel_gaussian/src/sobellib.cpp
+sobellib.h
+/afs/ece.cmu.edu/usr/bevani/Private/18-645/sobel_filter/sobel_gaussian/src/sobellib.h
+cstdint
+-
+iostream
+-
+cstring
+-
+omp.h
+-
+unistd.h
+-
+cstdlib
+-
+immintrin.h
+/afs/ece.cmu.edu/usr/bevani/Private/18-645/sobel_filter/sobel_gaussian/src/immintrin.h
+
+/afs/ece.cmu.edu/usr/bevani/Private/18-645/sobel_filter/sobel_gaussian/src/sobellib.h
+opencv2/opencv.hpp
+-
+
