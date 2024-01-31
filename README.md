@@ -44,11 +44,11 @@ The implementations are located in `sobellib.cpp`, which includes:
 
 Please see `out` folder to see the results.
 
-[Sobel OpenCV](out/sobel_opencv.png)
-[Sobel SIMD](out/sobel_simd.png)
+[Sobel OpenCV](/src/out/sobel_opencv.png)
+[Sobel SIMD](/src/out/sobel_simd.png)
 
-[Gaussian OpenCV](out/gaussian_opencv.png)
-[Gaussian SIMD](out/gaussian_simd.png)
+[Gaussian OpenCV](/src/out/gaussian_opencv.png)
+[Gaussian SIMD](/src/out/gaussian_simd.png)
 
 ## Note
 
