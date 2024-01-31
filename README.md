@@ -4,7 +4,7 @@ This guide provides steps to get the Sobel and Gaussian implementations up and r
 
 ## Prerequisites
 
-- Ensure that OpenCV is installed on the ECE cluster machine. Follow the guidelines provided in the Piazza post.
+- Ensure that OpenCV is installed
 - The code has been tested with OpenCV version 3.4.20 and on Intel ®Xeon ®CPU E5-2640 v4 @ 2.40GHz (Broadwell x86 64 architecture).
 
 ## Installation and Execution
